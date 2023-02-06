@@ -1,0 +1,137 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0"></mj-all>
+      <mj-text align="center" color="#1f664d" />
+    
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#eee">
+    <!--Section #1 -->
+    <mj-section background-color="#e5fef5" padding="5px 10px">
+      <mj-column>
+        <mj-text>
+          <a href="http://example.com"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/logo-book.png" alt="logo"></img></a>
+          <mj-text> 
+            <h1 style="font-size:25px;color:#1f664d;padding:20px 0 5px 0;letter-spacing:2px">ENJOY OUR LIMITED TIME DISCOUNTS</h1>
+          </mj-text>
+          <mj-text>
+            <mj-raw>
+              <img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/backtoschool.png" width="100%" alt="back to school image"></img>
+            </mj-raw>
+          </mj-text>
+          <mj-text padding="10px 35px 20px 35px">
+            <p style="font-size:16px;color:#1f664d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus libero nunc, mollis nec posuere vitae, accumsan in massa. Cras ut varius lorem.</p>
+          </mj-text>
+          <mj-text><button style="background-color:#315d4e;border:none;padding:10px 25px"><a href="http://example.com" style="color:#fff;font-size:16px;text-decoration:none;">GET A 15% DISCOUNT</a></button></mj-text>
+          <mj-divider border-width="15px" border-color="transparent"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e5fef5" padding="5px 10px">
+      <mj-column>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/greatoffer.png" alt="offer"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h1 style="font-size:25px;color:#1f664d;;letter-spacing:2px">ENJOY OUR LIMITED TIME DISCOUNTS</h1>
+        </mj-text>
+        <mj-text padding="10px 20px 20px 20px" align="left">
+          <p style="font-size:16px;color:#1f664d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus libero nunc, mollis nec posuere vitae, accumsan in massa. Cras ut varius lorem.</p>
+        </mj-text>
+        <mj-text><button style="background-color:#315d4e;border:none;padding:10px 25px"><a href="http://example.com" style="color:#fff;font-size:16px;text-decoration:none;">GET A 15% DISCOUNT</a></button></mj-text>
+          <mj-divider border-width="15px" border-color="transparent"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#243931" padding="5px 10px 0 10px">
+      <mj-column width="41.667%">
+        <mj-text align="left" padding="20px 20px 5px 20px">
+          <h1 style="font-size:25px;color:#1f664d;;letter-spacing:2px;color:#fff;">MULTITUDE OF SCHOOL SUPPLIES</h1>
+        </mj-text>
+        <mj-text padding="10px 20px 20px 20px" align="left">
+          <p style="font-size:16px;color:#fff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </mj-text>
+        <mj-text padding="0 20px 0 20px" align="left"><button style="background-color:#00fda1;border:none;padding:10px 25px"><a href="http://example.com" style="color:#243931;font-size:16px;text-decoration:none;">VIEW OFFERS</a></button></mj-text>
+        <mj-divider border-width="20px" border-color="transparent"></mj-divider>
+      </mj-column>
+      <mj-column vertical-align="bottom" width="58.333%">
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/4caf1c83-4646-4bd7-aebe-2fef623b44e4.png" alt="offer"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="25px 0 5px 0" background-color="#e5fef5">
+      <mj-column>
+        <mj-text>
+          <h3 style="font-size:25px;color:#243931;padding:0 20px 5px 20px;">ONE PENCIL</h3>
+        </mj-text>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/pencil-1.png" alt="pencil" width="141px"></mj-image>
+        <mj-text padding="10px 20px 0 20px" font-size="16px"><span style="color:red;text-decoration:line-through;">10.00$ </span><span style="color:green;">- 2.00$</span></mj-text>
+        <mj-text font-size="16px" color="#1f664d" padding="10px 20px 20px 20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button padding="0 20px 20px 20px" background-color="#315d4e"><a href="http://example.com" style="color:#fff;text-decoration:none;">BUY NOW</a></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h3 style="font-size:25px;color:#243931;padding:0 20px 5px 20px;">ONE PENCIL</h3>
+        </mj-text>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/pencil2.png" alt="pencil" width="132px"></mj-image>
+        <mj-text padding="10px 20px 0 20px" font-size="16px"><span style="color:red;text-decoration:line-through;">10.00$ </span><span style="color:green;">- 2.00$</span></mj-text>
+        <mj-text font-size="16px" color="#1f664d" padding="10px 20px 20px 20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button padding="0 20px 20px 20px" background-color="#315d4e"><a href="http://example.com" style="color:#fff;text-decoration:none;">BUY NOW</a></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h3 style="font-size:25px;color:#243931;padding:0 20px 5px 20px;">ONE PENCIL</h3>
+        </mj-text>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/pen.png" alt="pencil" width="130px"></mj-image>
+        <mj-text padding="10px 20px 0 20px" font-size="16px"><span style="color:red;text-decoration:line-through;">10.00$ </span><span style="color:green;">- 2.00$</span></mj-text>
+        <mj-text font-size="16px" color="#1f664d" padding="10px 20px 20px 20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button padding="0 20px 20px 20px" background-color="#315d4e"><a href="http://example.com" style="color:#fff;text-decoration:none;">BUY NOW</a></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e5fef5" border-width="15px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#243931" border-width="15px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#243931" padding="5px 10px">
+      <mj-column width="41.666%">
+        <mj-text align="left" padding="0px 10px 15px 10px">
+          <mj-raw>
+            <a href="http://example.com"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7461/logo-green.png" alt="logo" /></a>
+          </mj-raw>
+        </mj-text>
+        <mj-text align="left" padding-left="20px">
+          <h3 style="font-size:20px;color:#fff;">ABOUT US</h3>
+        </mj-text>
+        <mj-text align="left" padding="10px 20px" font-size="16px" color="#fff">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu sagittis felis.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text align="left" padding-left="20px">
+          <h3 style="font-size:20px;color:#fff;">LINKS</h3>
+        </mj-text>
+        <mj-text align="left" padding="10px 20px 0 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">Blog</a></mj-text>
+        <mj-text align="left" padding="10px 20px 0 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">About Us</a></mj-text>
+        <mj-text align="left" padding="10px 20px 0 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">Services</a></mj-text>
+        <mj-text align="left" padding="10px 20px 20px 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">Unsubscribe</a></mj-text>
+      </mj-column>
+      <mj-column width="33.333%">
+        <mj-text align="left" padding-left="20px">
+          <h3 style="font-size:20px;color:#fff;">CONTACT</h3>
+        </mj-text>
+        <mj-text align="left" padding="10px 20px 0 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">info@company.com</a></mj-text>
+        <mj-text align="left" padding="10px 20px 0 20px"><a href="http://example.com" style="text-decoration:none;color:#fff;font-size:16px;">Help Center</a></mj-text>
+        <mj-social align="left" padding="10px 10px 10px 20px" >
+          <mj-social-element name="facebook-noshare" href="https://facebook.com" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/facebook@2x.png" background-color="transparent" padding-right="5px" icon-size="30px"></mj-social-element>
+          <mj-social-element name="twitter-noshare" href="https://twitter.com" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/twitter@2x.png" background-color="transparent" padding="0 5px" icon-size="30px"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://linkedin.com" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/linkedin@2x.png" background-color="transparent" padding="0 5px" icon-size="30px"></mj-social-element>
+          <mj-social-element name="instagram-noshare" href="https://instagram.com" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/instagram@2x.png"background-color="transparent" padding="0 5px" icon-size="30px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
